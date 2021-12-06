@@ -1,0 +1,11 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+435345435
+} else {
+        $(".navbar").animate({left: "-145px"}, 300);
+        $(this).animate({left: "75px"}, 100);
+        $('.content').css("margin-left", "50px");
+        $("body").css("overflow-x","hidden");
+      }
+    });
+  })
